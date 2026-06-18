@@ -11,4 +11,5 @@ Backend project developed using Spring Boot and MongoDB.
 - AI-based Publication Analytics
 
 ## Current Status
-Initial project structure uploaded.
+Project completed successfully.
+updated read me file .
